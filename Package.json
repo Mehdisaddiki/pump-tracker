@@ -1,0 +1,13 @@
+{
+  "name": "pump-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "pump.fun momentum tracker with paper trading",
+  "main": "render-server.js",
+  "scripts": {
+    "start": "node render-server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
